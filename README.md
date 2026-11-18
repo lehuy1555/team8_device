@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **ĐÃ GỘP VÀO MONOREPO CHÍNH (CONSOLIDATED):** Toàn bộ mã nguồn Firmware, PC Studio và lịch sử commit của repo này đã được hợp nhất vào phân vùng [hardware/](https://github.com/Ktrinh1203/Ktrinh1203/tree/main/hardware) tại **[Ktrinh1203/Ktrinh1203 (NeuroLink Monorepo)](https://github.com/Ktrinh1203/Ktrinh1203)**. Mọi cập nhật mới vui lòng làm việc trực tiếp trên Monorepo chính.
+
 # ESP32 + ADS1299 V1.4 Portable EEG/EMG Holter & Live Monitor
 
 Hệ thống thu thập tín hiệu điện sinh lý 8 kênh 24-bit dùng **ESP32-WROOM-32 (Dual-Core + Dual-SPI)** kết nối **ADS1299 V1.4**, màn hình **TFT 1.44" ST7735S (128×128)**, cụm **5-Way Switch + SET/RST**, và khe thẻ **MicroSD FAT32**.
